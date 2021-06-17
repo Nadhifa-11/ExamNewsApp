@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewsApp10</string>
+    <string name="register">Register</string>
+    <string name="create_account">Create Account</string>
+    <string name="please_fill_the_input_below_here">Please fill the inout below here</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="image_view">Image View</string>
+    <string name="Aydan_Calafiore">aydan_calafiore</string>
+</resources>

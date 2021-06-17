@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "758308441913",
+    "project_id": "nadhifa-project",
+    "storage_bucket": "nadhifa-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758308441913:android:dd680c3e66285b2c18a2e8",
+        "android_client_info": {
+          "package_name": "com.nadhifa.newsapp10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758308441913-6lgc6qreo0ea78h5d36f1pr38bv37ln5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk3gKWETmH7q2AU2CFG-QesV0Fj11xoNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758308441913-6lgc6qreo0ea78h5d36f1pr38bv37ln5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758308441913:android:ae4115da49189d1918a2e8",
+        "android_client_info": {
+          "package_name": "com.nadhifa.newsapp10.network"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758308441913-6lgc6qreo0ea78h5d36f1pr38bv37ln5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk3gKWETmH7q2AU2CFG-QesV0Fj11xoNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758308441913-6lgc6qreo0ea78h5d36f1pr38bv37ln5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
